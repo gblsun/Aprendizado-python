@@ -1,0 +1,3 @@
+class Pessoa(object):
+    pass
+
